@@ -1,1 +1,3 @@
-This is the bug file from master 
+
+This is the bug file from by the involvement of manager
+
